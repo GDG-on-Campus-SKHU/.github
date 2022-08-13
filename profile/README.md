@@ -24,16 +24,16 @@
 
 <strong> -->
 
-### 22-23 1️기 멤버 🛫
+## 22-23 1기 멤버 🛫
 
 <!-- </strong>
 
 </summary> -->
 
-#### Lead
+### Lead
 
-| ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4?h=250&w=250&mask=circle) |
-| :----------------------------------------------------------------------------------------: |
-|                           [오혜성](https://github.com/hyesungoh)                           |
+| <img src="https://avatars.githubusercontent.com/u/26461307?v=4?w=250&h=250&mask=circle" alt="hyesungoh" width="30%" /> |
+| :--------------------------------------------------------------------------------------------------------------------: |
+|                                         [오혜성](https://github.com/hyesungoh)                                         |
 
 <!-- </details> -->
