@@ -32,8 +32,8 @@
 
 ### Lead
 
-| ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4?w=100&h=100&fit=cover&mask=circle) |
-| :--------------------------------------------------------------------------------------------------: |
-|                                [오혜성](https://github.com/hyesungoh)                                |
+| <img src="https://avatars.githubusercontent.com/u/26461307?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                      [오혜성](https://github.com/hyesungoh)                      |
 
 <!-- </details> -->
