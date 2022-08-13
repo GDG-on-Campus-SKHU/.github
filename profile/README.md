@@ -8,17 +8,11 @@
 
 </a>
 
-<p float='left'>
+<a href="https://www.gdsc-skhu.com/">
 
-Google Developer Student Clubs at SKHU
+![homepage](https://img.shields.io/badge/homepage-gdsc--skhu.com-red?style=flat-square)
 
-</p>
-
-<small float='left'>
-
-[`visit homepage`](https://www.gdsc-skhu.com/)
-
-</small>
+</a>
 
 </h1>
 
