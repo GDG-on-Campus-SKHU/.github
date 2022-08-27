@@ -38,8 +38,31 @@
 
 ### Core
 
+<div float="left">
+
+| <img src="https://avatars.githubusercontent.com/u/72500673?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                  [김하은 (hanni66)](https://github.com/hanni66)                  |
+
+| <img src="https://avatars.githubusercontent.com/u/14046092?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                [이한길 (hangillee)](https://github.com/hangillee)                |
+
+| <img src="https://avatars.githubusercontent.com/u/57248278?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                   [조성우 (vact19)](https://github.com/vact19)                   |
+
 | <img src="https://avatars.githubusercontent.com/u/16567811?v=4" width="150px" /> |
 | :------------------------------------------------------------------------------: |
-|                      [주동석](https://github.com/MojitoBar)                      |
+|                [주동석 (MojitoBar)](https://github.com/MojitoBar)                |
 
+| <img src="https://avatars.githubusercontent.com/u/63100352?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|               [한슬희 (hanseulhee)](https://github.com/hanseulhee)               |
+
+| <img src="https://avatars.githubusercontent.com/u/37373826?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|               [한현수 (HanHyunsoo)](https://github.com/HanHyunsoo)               |
+
+</div>
 <!-- </details> -->
