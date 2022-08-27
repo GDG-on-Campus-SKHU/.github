@@ -38,12 +38,8 @@
 
 ### Core
 
-| <img src="https://avatars.githubusercontent.com/u/72500673?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/14046092?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/57248278?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/16567811?v=4" width="150px" /> |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|                  [김하은 (hanni66)](https://github.com/hanni66)                  |                [이한길 (hangillee)](https://github.com/hangillee)                |                   [조성우 (vact19)](https://github.com/vact19)                   |                [주동석 (MojitoBar)](https://github.com/MojitoBar)                |
-
-| <img src="https://avatars.githubusercontent.com/u/63100352?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/37373826?v=4" width="150px" /> |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|               [한슬희 (hanseulhee)](https://github.com/hanseulhee)               |               [한현수 (HanHyunsoo)](https://github.com/HanHyunsoo)               |
+| <img src="https://avatars.githubusercontent.com/u/72500673?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/14046092?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/57248278?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/16567811?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/63100352?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/37373826?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|                  [김하은 (hanni66)](https://github.com/hanni66)                  |                [이한길 (hangillee)](https://github.com/hangillee)                |                   [조성우 (vact19)](https://github.com/vact19)                   |                [주동석 (MojitoBar)](https://github.com/MojitoBar)                |               [한슬희 (hanseulhee)](https://github.com/hanseulhee)               |               [한현수 (HanHyunsoo)](https://github.com/HanHyunsoo)               |
 
 <!-- </details> -->
