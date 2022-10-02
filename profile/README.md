@@ -18,7 +18,17 @@
 
 </div>
 
-## 22-23 1기 멤버 🛫
+<details>
+
+<summary>
+
+<h3>
+
+22-23 1기 멤버 🛫
+
+</h3>
+
+</summary>
 
 ### Lead
 
@@ -45,3 +55,5 @@
 | [김하은 (hanni66)](https://github.com/hanni66) | [이한길 (hangillee)](https://github.com/hangillee) | [조성우 (vact19)](https://github.com/vact19) | [주동석 (MojitoBar)](https://github.com/MojitoBar) |
 
 </details> -->
+
+</details>
