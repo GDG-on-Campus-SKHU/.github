@@ -71,3 +71,66 @@
 </details>
 
 </details>
+
+
+
+
+###
+
+<!-- 기수 구분 -->
+
+<details>
+
+<summary>
+
+<h3>
+
+23-24 멤버 🛫
+
+</h3>
+
+</summary>
+
+### Lead
+
+| <img src="https://avatars.githubusercontent.com/u/14046092?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                      [이한길](https://github.com/hangillee)                      |
+
+### Core
+
+| <img src="https://avatars.githubusercontent.com/u/5338788?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/46082941?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/92084974?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/58465973?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/107793780?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/84395062?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/62700860?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|                       [김보규](https://github.com/bg0820)                       |                      [허남규](https://github.com/Zvckaya)                      |                       [이윤하](https://github.com/younha00)                        |                      [이인협](https://github.com/cucumber99r)                      |                     [방예혁](https://github.com/YehyeokBang)                      |                     [이지윤](https://github.com/dd-jiyun)                      |                      [인상진](https://github.com/sangjin6439)                      |
+
+<details>
+
+<summary>
+
+<h3>Member</h3>
+
+</summary>
+
+| <img src="https://avatars.githubusercontent.com/u/144644560?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/134477764?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/101261625?v=4" width="150px" />  |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|                        [김나윤](https://github.com/bbggr1209)                        |                        [김동균](https://github.com/dongkyun0713)                        |                        [김석완](https://github.com/)                        |                       [김예은](https://github.com/yeeun0702)                       |
+| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  |
+|                     [김우진](https://github.com/)                     |                      [김이화](https://github.com/)                       |                    [박소정](https://github.com/)                    |                       [안준영](https://github.com/)                       |
+| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/129734272?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/144524764?v=4" width="150px" /> |
+|                       [오동재](https://github.com/)                       |                       [이기연](https://github.com/Lee-gi-yeun)                        |                      [이길수](https://github.com/)                      |                      [이승창](https://github.com/jjekrrq)                      |
+| <img src="https://avatars.githubusercontent.com/u/144050190?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> |
+|                     [정윤선](https://github.com/Whiterangi)                     |                      [조용현](https://github.com/)                      |                     [최민우](https://github.com/)                      |                      [최인호](https://github.com/)                       |
+| <img src="https://avatars.githubusercontent.com/u/59731570?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> |
+|                     [현진용](https://github.com/zzdh8)                     |                      [남궁혜민](https://github.com/)                      |                       [박석진](https://github.com/)                       |                      [장대영](https://github.com/)                       |
+| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/145004024?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  |
+|                       [차지용](https://github.com/)                       |                       [김동찬](https://github.com/)                       |                       [김영현](https://github.com/202212025)                        |                        [김예린](https://github.com/)                        |
+| <img src="https://avatars.githubusercontent.com/u/101048129?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/145003970?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/141125424?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/144561017?v=4" width="150px" />  |
+|                      [김주하](https://github.com/laketree2)                      |                     [박예은](https://github.com/yengniws)                     |                        [박지섭](https://github.com/HarrySeop)                         |                        [이만재](https://github.com/leemanjae02)                        |
+| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/145003945?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/113671151?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> |
+|                     [이윤아](https://github.com/)                      |                    [이인철](https://github.com/dldlscjf123)                     |                    [이지원](https://github.com/jiwonbaby)                     |                    [임민지](https://github.com/)                     |
+| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/40955023?v=4" width="150px" /> |                                                                                   |                                                                                   |
+|                     [정우용](https://github.com/)                      |                    [주장권](https://github.com/JuJangGwon)                     |                                                                                 |                                                                                 |
+
+</details>
+
+</details>
