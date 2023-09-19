@@ -23,9 +23,7 @@
 <summary>
 
 <h3>
-
 22-23 1기 멤버 🛫
-
 </h3>
 
 </summary>
@@ -84,9 +82,7 @@
 <summary>
 
 <h3>
-
 23-24 2기 멤버 🛫
-
 </h3>
 
 </summary>
@@ -111,15 +107,15 @@
 
 </summary>
 
-| <img src="https://avatars.githubusercontent.com/u/144644560?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/134477764?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/101261625?v=4" width="150px" />  |
+| <img src="https://github.com/bbggr1209.png" width="150px" />  | <img src="https://github.com/dongkyun0713.png" width="150px" /> | <img src="https://github.com/ksw733.png" width="150px" />  | <img src="https://github.com/yeeun0702.png" width="150px" />  |
 | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|                        [김나윤](https://github.com/bbggr1209)                        |                        [김동균](https://github.com/dongkyun0713)                        |                        [김석완](https://github.com/)                        |                       [김예은](https://github.com/yeeun0702)                       |
-| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  |
-|                     [김우진](https://github.com/)                     |                      [김이화](https://github.com/)                       |                    [박소정](https://github.com/)                    |                       [안준영](https://github.com/)                       |
-| <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/129734272?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/144524764?v=4" width="150px" /> |
-|                       [오동재](https://github.com/)                       |                       [이기연](https://github.com/Lee-gi-yeun)                        |                      [이길수](https://github.com/)                      |                      [이승창](https://github.com/jjekrrq)                      |
-| <img src="https://avatars.githubusercontent.com/u/144050190?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> |
-|                     [정윤선](https://github.com/Whiterangi)                     |                      [조용현](https://github.com/)                      |                     [최민우](https://github.com/)                      |                      [최인호](https://github.com/)                       |
+|                        [김나윤](https://github.com/bbggr1209)                        |                        [김동균](https://github.com/dongkyun0713)                        |                        [김석완](https://github.com/ksw733)                        |                       [김예은](https://github.com/yeeun0702)                       |
+| <img src="https://github.com/woogym.png" width="150px" /> | <img src="https://github.com/ihwag719.png" width="150px" />  | <img src="https://github.com/sojeong0202.png" width="150px" /> | <img src="https://github.com/treaty321.png" width="150px" />  |
+|                     [김우진](https://github.com/woogym)                     |                      [김이화](https://github.com/ihwag719)                       |                    [박소정](https://github.com/sojeong0202)                    |                       [안준영](https://github.com/treaty321)                       |
+| <img src="https://github.com/djdongjae.png" width="150px" />  | <img src="https://github.com/Lee-gi-yeun.png" width="150px" />  | <img src="https://github.com/kons2003.png" width="150px" /> | <img src="https://github.com/jjekrrq.png" width="150px" /> |
+|                       [오동재](https://github.com/djdongjae)                       |                       [이기연](https://github.com/Lee-gi-yeun)                        |                      [이길수](https://github.com/kons2003)                      |                      [이승창](https://github.com/jjekrrq)                      |
+| <img src="https://github.com/Whiterangi.png" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://github.com/chaiminwoo0223.png" width="150px" /> | <img src="https://github.com/inhooo00.png" width="150px" /> |
+|                     [정윤선](https://github.com/Whiterangi)                     |                      [조용현](https://github.com/)                      |                     [최민우](https://github.com/chaiminwoo0223)                      |                      [최인호](https://github.com/inhooo00)                       |
 | <img src="https://avatars.githubusercontent.com/u/59731570?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" /> |
 |                     [현진용](https://github.com/zzdh8)                     |                      [남궁혜민](https://github.com/)                      |                       [박석진](https://github.com/)                       |                      [장대영](https://github.com/)                       |
 | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/145004024?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/?v=4" width="150px" />  |
