@@ -1,21 +1,17 @@
 <div align="center">
 
 <h1>
-
 <a href="https://www.gdsc-skhu.com/">
-
-<img width="1280" alt="GDSC SKHU LOGO - rectangle" src="https://user-images.githubusercontent.com/26461307/188155307-3c4552bb-d016-4b1f-a7bf-bdb9f213a430.png">
+  
+![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/assets/14046092/1839fc55-f7ec-482d-ac76-e728d2692360)
 
 </a>
-
 <a href="https://www.gdsc-skhu.com/">
 
 ![homepage](https://img.shields.io/badge/homepage-gdsc--skhu.com-red?style=flat-square)
 
 </a>
-
 </h1>
-
 </div>
 
 <details>
@@ -110,7 +106,7 @@
 | <img src="https://github.com/bbggr1209.png" width="150px" />  | <img src="https://github.com/dongkyun0713.png" width="150px" /> | <img src="https://github.com/ksw733.png" width="150px" />  | <img src="https://github.com/yeeun0702.png" width="150px" />  |
 | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 |                        [김나윤](https://github.com/bbggr1209)                        |                        [김동균](https://github.com/dongkyun0713)                        |                        [김석완](https://github.com/ksw733)                        |                       [김예은](https://github.com/yeeun0702)                       |
-| <img src="https://github.com/woogym.png" width="150px" /> | <img src="https://github.com/ihwag719.png" width="150px" />  | <img src="https://github.com/sojeong0202.png" width="150px" /> | <img src="https://github.com/treaty321.png" width="150px" />  |
+| <img src="https://github.com/woogym.png" width="150px" /> | <img src="https://github.com/ihwag719.png" width="150px" />  | <img src="https://github.com/sojeong0202.png" width="150px" /> | <img src="https://github.com/Junyeong-An.png" width="150px" />  |
 |                     [김우진](https://github.com/woogym)                     |                      [김이화](https://github.com/ihwag719)                       |                    [박소정](https://github.com/sojeong0202)                    |                       [안준영](https://github.com/treaty321)                       |
 | <img src="https://github.com/djdongjae.png" width="150px" />  | <img src="https://github.com/Lee-gi-yeun.png" width="150px" />  | <img src="https://github.com/kons2003.png" width="150px" /> | <img src="https://github.com/jjekrrq.png" width="150px" /> |
 |                       [오동재](https://github.com/djdongjae)                       |                       [이기연](https://github.com/Lee-gi-yeun)                        |                      [이길수](https://github.com/kons2003)                      |                      [이승창](https://github.com/jjekrrq)                      |
