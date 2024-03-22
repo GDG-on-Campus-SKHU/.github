@@ -16,13 +16,7 @@
 
 <details>
 
-<summary>
-
-<h3>
-22-23 1기 멤버 🛫
-</h3>
-
-</summary>
+<summary><b>22-23 1기 멤버 🛫</b></summary>
 
 ### Lead
 
@@ -38,11 +32,7 @@
 
 <details>
 
-<summary>
-
-<h3>Member</h3>
-
-</summary>
+<summary><b>Member</b></summary>
 
 | <img src="https://avatars.githubusercontent.com/u/41832151?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/114795211?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/58244158?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/80027082?v=4" width="150px" />  |
 | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
@@ -75,13 +65,7 @@
 
 <details>
 
-<summary>
-
-<h3>
-23-24 2기 멤버 🛫
-</h3>
-
-</summary>
+<summary><b>23-24 2기 멤버 🛫</b></summary>
 
 ### Lead
 
@@ -91,17 +75,13 @@
 
 ### Core
 
-| <img src="https://avatars.githubusercontent.com/u/5338788?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/46082941?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/92084974?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/58465973?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/107793780?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/84395062?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/62700860?v=4" width="150px" /> |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|                       [김보규](https://github.com/bg0820)                       |                      [허남규](https://github.com/Zvckaya)                      |                       [이윤하](https://github.com/younha00)                        |                      [이인협](https://github.com/cucumber99)                      |                     [방예혁](https://github.com/YehyeokBang)                      |                     [이지윤](https://github.com/dd-jiyun)                      |                      [인상진](https://github.com/sangjin6439)                      |
+| <img src="https://avatars.githubusercontent.com/u/5338788?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/46082941?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/92084974?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/58465973?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/107793780?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/84395062?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/62700860?v=4" width="150px" /> | <img src="https://github.com/GDSC-SKHU/.github/assets/14046092/292ae3fc-9174-48db-b424-d784f63b3894" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/128473266?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/129731833?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/107829554?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|                       [김보규](https://github.com/bg0820)                       |                      [허남규](https://github.com/Zvckaya)                      |                       [이윤하](https://github.com/younha00)                        |                      [이인협](https://github.com/cucumber99)                      |                     [방예혁](https://github.com/YehyeokBang)                      |                     [이지윤](https://github.com/dd-jiyun)                      |                      [인상진](https://github.com/sangjin6439)                      |                      [석진욱](https://github.com/sangjin6439)                      |                      [김신희](https://github.com/shinheekim)                      |                      [김희동](https://github.com/Kim-Hui-Dong)                      |                      [류창훈](https://github.com/Ryuchanghoon)                      |
 
 <details>
 
-<summary>
-
-<h3>Member</h3>
-
-</summary>
+<summary><b>Member</b></summary>
 
 | <img src="https://github.com/bbggr1209.png" width="150px" />  | <img src="https://github.com/dongkyun0713.png" width="150px" /> | <img src="https://github.com/ksw733.png" width="150px" />  | <img src="https://github.com/yeeun0702.png" width="150px" />  |
 | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
