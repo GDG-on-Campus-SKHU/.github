@@ -3,7 +3,8 @@
 <h1>
 <a href="https://www.gdsc-skhu.com/">
   
-![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/assets/14046092/1839fc55-f7ec-482d-ac76-e728d2692360)
+<!--![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/assets/14046092/1839fc55-f7ec-482d-ac76-e728d2692360) -->
+![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/blob/main/assets/GDG%20On%20Campus%20-%20Centered.jpg?raw=true)
 
 </a>
 <a href="https://www.gdsc-skhu.com/">
