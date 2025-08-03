@@ -155,3 +155,34 @@
 </details>
 
 </details>
+
+### 
+
+<!-- 기수 구분, 여기서 부터 4th GDGoC -->
+
+<details>
+
+<summary><b>24-25 4기 멤버 🌟</b></summary>
+
+### Lead (A.K.A Organizer)
+
+| <img src="https://avatars.githubusercontent.com/u/83647215?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/66340263?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|                  [윤준석](https://github.com/junseok0304)                   |                  [김준](https://github.com/kjoon418)                   |
+
+### Core
+
+| <img src="https://github.com/jihoo2002.png" width="150px" /> | <img src="https://github.com/bomin0214.png" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="150px" /> | <img src="https://github.com/ggok0265.png" width="150px" /> | <img src="https://github.com/iamseoyoung.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hyeonji44.png" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :----------------------------------------------------------------------: | :---------------------------------------------------------: |
+|           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |                                  김태우                                  |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |                                  한시연                                  |            [황재현](https://github.com/ten0213)            |
+
+<details>
+
+### Who's Next?
+
+<img width="832" height="501" alt="GDGoC_outro_pretendard" src="https://github.com/user-attachments/assets/b493fa83-82b5-422e-bca7-950d4a250ea0" />
+
+</details>
+
+</details>
+
