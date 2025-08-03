@@ -178,11 +178,11 @@
 
 <details>
 
+<summary><b>Member</b></summary>
+
 ### Who's Next?
 
 <img width="832" height="501" alt="GDGoC_outro_pretendard" src="https://github.com/user-attachments/assets/b493fa83-82b5-422e-bca7-950d4a250ea0" />
-
-</details>
 
 </details>
 
