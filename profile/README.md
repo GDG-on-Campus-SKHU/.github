@@ -7,9 +7,9 @@
 ![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/blob/main/assets/GDG%20On%20Campus%20-%20Centered.jpg?raw=true)
 
 </a>
-<a href="https://www.gdsc-skhu.com/">
+<a href="https://www.gdgoc-skhu.com/">
 
-![homepage](https://img.shields.io/badge/homepage-gdsc--skhu.com-red?style=flat-square)
+![homepage](https://img.shields.io/badge/homepage-gdgoc--skhu.com-red?style=flat-square)
 
 </a>
 </h1>
@@ -172,9 +172,9 @@
 
 ### Core
 
-| <img src="https://github.com/jihoo2002.png" width="150px" /> | <img src="https://github.com/bomin0214.png" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="150px" /> | <img src="https://github.com/ggok0265.png" width="150px" /> | <img src="https://github.com/iamseoyoung.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hyeonji44.png" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :----------------------------------------------------------------------: | :---------------------------------------------------------: |
-|           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |                                  김태우                                  |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |                                  한시연                                  |            [황재현](https://github.com/ten0213)            |
+| <img src="https://github.com/jihoo2002.png" width="150px" /> | <img src="https://github.com/bomin0214.png" width="150px" /> | <img src="https://github.com/TwooTwoo.png" width="150px" /> | <img src="https://github.com/ggok0265.png" width="150px" /> | <img src="https://github.com/iamseoyoung.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hyeonji44.png" width="150px" /> | <img src="https://github.com/Han6262.png" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
+|           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |           [김태우](https://github.com/TwooTwoo)            |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |           [한시연](https://github.com/Han6262)           |            [황재현](https://github.com/ten0213)            |
 
 <details>
 
