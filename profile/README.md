@@ -164,25 +164,59 @@
 
 <summary><b>24-25 4기 멤버 🌟</b></summary>
 
-### Lead (A.K.A Organizer)
+### Lead (A.K.A Organizer) 2
 
 | <img src="https://avatars.githubusercontent.com/u/83647215?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/66340263?v=4" width="150px" /> |
 | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 |                  [윤준석](https://github.com/junseok0304)                   |                  [김준](https://github.com/kjoon418)                   |
 
-### Core
+### Core 9
 
 | <img src="https://github.com/jihoo2002.png" width="150px" /> | <img src="https://github.com/bomin0214.png" width="150px" /> | <img src="https://github.com/TwooTwoo.png" width="150px" /> | <img src="https://github.com/ggok0265.png" width="150px" /> | <img src="https://github.com/iamseoyoung.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hyeonji44.png" width="150px" /> | <img src="https://github.com/Han6262.png" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
 |           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |           [김태우](https://github.com/TwooTwoo)            |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |           [한시연](https://github.com/Han6262)           |            [황재현](https://github.com/ten0213)            |
 
 <details>
+<summary><b>Member 38</b></summary>
 
-<summary><b>Member</b></summary>
+| <img src="https://github.com/min-j208.png" width="150px" /> | <img src="https://github.com/woohyuk0428.png" width="150px" /> | <img src="https://github.com/bbikgu.png" width="150px" /> | <img src="https://github.com/KiwoongKim-1227.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [강민정](https://github.com/min-j208) | [강우혁](https://github.com/woohyuk0428) | [김규빈](https://github.com/bbikgu) | [김기웅](https://github.com/KiwoongKim-1227) |
 
-### Who's Next?
+| <img src="https://github.com/fs6-kde.png" width="150px" /> | <img src="https://github.com/Yangyangwookun.png" width="150px" /> | <img src="https://github.com/seokhawn01.png" width="150px" /> | <img src="https://github.com/kimsoenho.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [김다은](https://github.com/fs6-kde) | [김서빈](https://github.com/Yangyangwookun) | [김석환](https://github.com/seokhawn01) | [김선호](https://github.com/kimsoenho) |
 
-<img width="832" height="501" alt="GDGoC_outro_pretendard" src="https://github.com/user-attachments/assets/b493fa83-82b5-422e-bca7-950d4a250ea0" />
+| <img src="https://github.com/Eo-yeon.png" width="150px" /> | <img src="https://github.com/kimth12.png" width="150px" /> | <img src="https://github.com/Dumbell500.png" width="150px" /> | <img src="https://github.com/hsolmoon.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [김어연](https://github.com/Eo-yeon) | [김태희](https://github.com/kimth12) | [김한민](https://github.com/Dumbell500) | [문해솔](https://github.com/hsolmoon) |
+
+| <img src="https://github.com/sssu0926.png" width="150px" /> | <img src="https://github.com/DysutopianQ.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/parkyumee.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [박수빈](https://github.com/sssu0926) | [송은서](https://github.com/DysutopianQ) | [박연지](https://github.com/yeonja23) | [박유미](https://github.com/parkyumee) |
+
+| <img src="https://github.com/juwon154.png" width="150px" /> | <img src="https://github.com/ujini7833-droid.png" width="150px" /> | <img src="https://github.com/seokangho5062.png" width="150px" /> | <img src="https://github.com/Yeonheejae.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [박주원](https://github.com/juwon154) | [배유진](https://github.com/ujini7833-droid) | [서강호](https://github.com/seokangho5062) | [연희재](https://github.com/Yeonheejae) |
+
+| <img src="https://github.com/Mean55.png" width="150px" /> | <img src="https://github.com/dlwns1221.png" width="150px" /> | <img src="https://github.com/wndo248.png" width="150px" /> | <img src="https://github.com/Lylih-Azlom.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [오민석](https://github.com/Mean55) | [유이준](https://github.com/dlwns1221) | [윤주애](https://github.com/wndo248) | [이강현](https://github.com/Lylih-Azlom) |
+
+| <img src="https://github.com/Bohyeon35.png" width="150px" /> | <img src="https://github.com/jjekrrq.png" width="150px" /> | <img src="https://github.com/0xwb7.png" width="150px" /> | <img src="https://github.com/leehyorin8.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [이보현](https://github.com/Bohyeon35) | [이승창](https://github.com/jjekrrq) | [이우빈](https://github.com/0xwb7) | [이효린](https://github.com/leehyorin8) |
+
+| <img src="https://github.com/Jeoksaelim.png" width="150px" /> | <img src="https://github.com/JeongHyck06.png" width="150px" /> | <img src="https://github.com/knm07071-eng.png" width="150px" /> | <img src="https://github.com/sbin0509.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [임은정](https://github.com/Jeoksaelim) | [임정혁](https://github.com/JeongHyck06) | [정유빈](https://github.com/knm07071-eng) | [최석빈](https://github.com/sbin0509) |
+
+| <img src="https://github.com/TERAN44.png" width="150px" /> | <img src="https://github.com/yerim125.png" width="150px" /> | <img src="https://github.com/liveoh387.png" width="150px" /> | <img src="https://github.com/nmmn1004.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [최시우](https://github.com/TERAN44) | [최예림](https://github.com/yerim125) | [최유라](https://github.com/liveoh387) | [최준혁](https://github.com/nmmn1004) |
+
+| <img src="https://github.com/H-WooChan.png" width="150px" /> | <img src="https://github.com/hdo91658125-bot.png" width="150px" /> |  |  |
+| :--: | :--: | :--: | :--: |
+| [허우찬](https://github.com/H-WooChan) | [함다온](https://github.com/hdo91658125-bot) |  |  |
 
 </details>
-
