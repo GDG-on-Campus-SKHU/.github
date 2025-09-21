@@ -193,7 +193,7 @@
 
 | <img src="https://github.com/sssu0926.png" width="150px" /> | <img src="https://github.com/DysutopianQ.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/parkyumee.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [박수빈](https://github.com/sssu0926) | [송은서](https://github.com/DysutopianQ) | [박연지](https://github.com/yeonja23) | [박유미](https://github.com/parkyumee) |
+| [박수빈](https://github.com/sssu0926) | [송은서](https://github.com/DysutopianQ) | [박연지](https://github.com/yeonja23) | [박유미](https://github.com/parkyumeee) |
 
 | <img src="https://github.com/juwon154.png" width="150px" /> | <img src="https://github.com/ujini7833-droid.png" width="150px" /> | <img src="https://github.com/seokangho5062.png" width="150px" /> | <img src="https://github.com/Yeonheejae.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
