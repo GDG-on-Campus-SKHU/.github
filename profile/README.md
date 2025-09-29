@@ -187,9 +187,9 @@
 | :--: | :--: | :--: | :--: |
 | [김다은](https://github.com/fs6-kde) | [김서빈](https://github.com/Yangyangwookun) | [김석환](https://github.com/seokhawn01) | [김선호](https://github.com/kimsoenho) |
 
-| <img src="https://github.com/Eo-yeon.png" width="150px" /> | <img src="https://github.com/tomjerry0128.png" width="150px" /> | <img src="https://github.com/Dumbell500.png" width="150px" /> | <img src="https://github.com/hsolmoon.png" width="150px" /> |
+| <img src="https://github.com/Eo-yeon.png" width="150px" /> | <img src="https://github.com/hdo91658125-bot.png" width="150px" /> | <img src="https://github.com/Dumbell500.png" width="150px" /> | <img src="https://github.com/hsolmoon.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [김어연](https://github.com/Eo-yeon) | [김태희](https://github.com/tomjerry0128) | [김한민](https://github.com/Dumbell500) | [문해솔](https://github.com/hsolmoon) |
+| [김어연](https://github.com/Eo-yeon) | [함다온](https://github.com/hdo91658125-bot) | [김한민](https://github.com/Dumbell500) | [문해솔](https://github.com/hsolmoon) |
 
 | <img src="https://github.com/sssu0926.png" width="150px" /> | <img src="https://github.com/DysutopianQ.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/parkyumee.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
@@ -215,8 +215,8 @@
 | :--: | :--: | :--: | :--: |
 | [최시우](https://github.com/TERAN44) | [최예림](https://github.com/yerim125) | [최유라](https://github.com/totostudent) | [최준혁](https://github.com/nmmn1004) |
 
-| <img src="https://github.com/H-WooChan.png" width="150px" /> | <img src="https://github.com/hdo91658125-bot.png" width="150px" /> |  |  |
+| <img src="https://github.com/H-WooChan.png" width="150px" /> | | | |
 | :--: | :--: | :--: | :--: |
-| [허우찬](https://github.com/H-WooChan) | [함다온](https://github.com/hdo91658125-bot) |  |  |
+| [허우찬](https://github.com/H-WooChan) | | | |
 
 </details>
