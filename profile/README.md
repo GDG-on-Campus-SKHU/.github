@@ -183,9 +183,9 @@
 | :--: | :--: | :--: | :--: |
 | [강민정](https://github.com/min-j208) | [강우혁](https://github.com/woohyuk0428) | [김규빈](https://github.com/bbikgu) | [김기웅](https://github.com/KiwoongKim-1227) |
 
-| <img src="https://github.com/fs6-kde.png" width="150px" /> | <img src="https://github.com/Yangyangwookun.png" width="150px" /> | <img src="https://github.com/seokhawn01.png" width="150px" /> | <img src="https://github.com/kimsoenho.png" width="150px" /> |
+| <img src="https://github.com/fs6-kde.png" width="150px" /> | <img src="https://github.com/KIMSEOVIN.png" width="150px" /> | <img src="https://github.com/seokhawn01.png" width="150px" /> | <img src="https://github.com/kimsoenho.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [김다은](https://github.com/fs6-kde) | [김서빈](https://github.com/Yangyangwookun) | [김석환](https://github.com/seokhawn01) | [김선호](https://github.com/kimsoenho) |
+| [김다은](https://github.com/fs6-kde) | [김서빈](https://github.com/KIMSEOVIN) | [김석환](https://github.com/seokhawn01) | [김선호](https://github.com/kimsoenho) |
 
 | <img src="https://github.com/Eo-yeon.png" width="150px" /> | <img src="https://github.com/hdo91658125-bot.png" width="150px" /> | <img src="https://github.com/Dumbell500.png" width="150px" /> | <img src="https://github.com/hsolmoon.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
