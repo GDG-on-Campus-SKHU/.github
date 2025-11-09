@@ -160,7 +160,7 @@
 
 ### 
 
-<!-- 기수 구분, 여기서 부터 4th GDGoC -->
+<!-- 기수 구분, 여기서 부터 4th GDGoC 운영진 11명, 멤버 36명 총원 47명 -->
 
 <details>
 
@@ -179,7 +179,7 @@
 |           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |           [김태우](https://github.com/TwooTwoo)            |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |           [한시연](https://github.com/Han6262)           |            [황재현](https://github.com/ten0213)            |
 
 <details>
-<summary><b>Member 38</b></summary>
+<summary><b>Member 36</b></summary>
 
 | <img src="https://github.com/min-j208.png" width="150px" /> | <img src="https://github.com/woohyuk0428.png" width="150px" /> | <img src="https://github.com/bbikgu.png" width="150px" /> | <img src="https://github.com/KiwoongKim-1227.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
@@ -209,16 +209,12 @@
 | :--: | :--: | :--: | :--: |
 | [이보현](https://github.com/Bohyeon35) | [이승창](https://github.com/jjekrrq) | [이우빈](https://github.com/0xwb7) | [이효린](https://github.com/leehyorin8) |
 
-| <img src="https://github.com/Jeoksaelim.png" width="150px" /> | <img src="https://github.com/JeongHyck06.png" width="150px" /> | <img src="https://github.com/knm07071-eng.png" width="150px" /> | <img src="https://github.com/sbin0509-blip.png" width="150px" /> |
+| <img src="https://github.com/H-WooChan.png" width="150px" /> | <img src="https://github.com/JeongHyck06.png" width="150px" /> | <img src="https://github.com/knm07071-eng.png" width="150px" /> | <img src="https://github.com/sbin0509-blip.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [임은정](https://github.com/Jeoksaelim) | [임정혁](https://github.com/JeongHyck06) | [정유빈](https://github.com/knm07071-eng) | [최석빈](https://github.com/sbin0509-blip) |
+| [허우찬](https://github.com/H-WooChan) | [임정혁](https://github.com/JeongHyck06) | [정유빈](https://github.com/knm07071-eng) | [최석빈](https://github.com/sbin0509-blip) |
 
 | <img src="https://github.com/TERAN44.png" width="150px" /> | <img src="https://github.com/yerim125.png" width="150px" /> | <img src="https://github.com/totostudent.png" width="150px" /> | <img src="https://github.com/nmmn1004.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
 | [최시우](https://github.com/TERAN44) | [최예림](https://github.com/yerim125) | [최유라](https://github.com/totostudent) | [최준혁](https://github.com/nmmn1004) |
-
-| <img src="https://github.com/H-WooChan.png" width="150px" /> | | | |
-| :--: | :--: | :--: | :--: |
-| [허우찬](https://github.com/H-WooChan) | | | |
 
 </details>
