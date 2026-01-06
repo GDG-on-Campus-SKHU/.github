@@ -177,9 +177,8 @@
 | <img src="https://github.com/jihoo2002.png" width="150px" /> | <img src="https://github.com/bomin0214.png" width="150px" /> | <img src="https://github.com/TwooTwoo.png" width="150px" /> | <img src="https://github.com/ggok0265.png" width="150px" /> | <img src="https://github.com/iamseoyoung.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hyeonji44.png" width="150px" /> | <img src="https://github.com/Han6262.png" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
 |           [권지후](https://github.com/jihoo2002)            |           [김보민](https://github.com/bomin0214)            |           [김태우](https://github.com/TwooTwoo)            |           [박대경](https://github.com/ggok0265)            |            [이서영](https://github.com/iamseoyoung)            |              [이솔](https://github.com/tto-oy)              |            [주현지](https://github.com/hyeonji44)            |           [한시연](https://github.com/Han6262)           |            [황재현](https://github.com/ten0213)            |
-
 <details>
-<summary><b>Member 36</b></summary>
+<summary><b>Member 34</b></summary>
 
 | <img src="https://github.com/min-j208.png" width="150px" /> | <img src="https://github.com/woohyuk0428.png" width="150px" /> | <img src="https://github.com/bbikgu.png" width="150px" /> | <img src="https://github.com/KiwoongKim-1227.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
@@ -193,28 +192,28 @@
 | :--: | :--: | :--: | :--: |
 | [김어연](https://github.com/Eo-yeon) | [함다온](https://github.com/hdo91658125-bot) | [김한민](https://github.com/Dumbell500) | [문해솔](https://github.com/hsolmoon) |
 
-| <img src="https://github.com/sssu0926.png" width="150px" /> | <img src="https://github.com/DysutopianQ.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/parkyumee.png" width="150px" /> |
+| <img src="https://github.com/DysutopianQ.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/parkyumee.png" width="150px" /> | <img src="https://github.com/juwon154.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [박수빈](https://github.com/sssu0926) | [송은서](https://github.com/DysutopianQ) | [박연지](https://github.com/yeonja23) | [박유미](https://github.com/parkyumeee) |
+| [송은서](https://github.com/DysutopianQ) | [박연지](https://github.com/yeonja23) | [박유미](https://github.com/parkyumeee) | [박주원](https://github.com/juwon154) |
 
-| <img src="https://github.com/juwon154.png" width="150px" /> | <img src="https://github.com/ujini7833-droid.png" width="150px" /> | <img src="https://github.com/seokangho5062.png" width="150px" /> | <img src="https://github.com/Yeonheejae.png" width="150px" /> |
+| <img src="https://github.com/ujini7833-droid.png" width="150px" /> | <img src="https://github.com/seokangho5062.png" width="150px" /> | <img src="https://github.com/Yeonheejae.png" width="150px" /> | <img src="https://github.com/Mean55.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [박주원](https://github.com/juwon154) | [배유진](https://github.com/ujini7833-droid) | [서강호](https://github.com/seokangho5062) | [연희재](https://github.com/Yeonheejae) |
+| [배유진](https://github.com/ujini7833-droid) | [서강호](https://github.com/seokangho5062) | [연희재](https://github.com/Yeonheejae) | [오민석](https://github.com/Mean55) |
 
-| <img src="https://github.com/Mean55.png" width="150px" /> | <img src="https://github.com/dlwns1221.png" width="150px" /> | <img src="https://github.com/wndo248.png" width="150px" /> | <img src="https://github.com/Lylih-Azlom.png" width="150px" /> |
+| <img src="https://github.com/wndo248.png" width="150px" /> | <img src="https://github.com/Lylih-Azlom.png" width="150px" /> | <img src="https://github.com/Bohyeon35.png" width="150px" /> | <img src="https://github.com/jjekrrq.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [오민석](https://github.com/Mean55) | [유이준](https://github.com/dlwns1221) | [윤주애](https://github.com/wndo248) | [이강현](https://github.com/Lylih-Azlom) |
+| [윤주애](https://github.com/wndo248) | [이강현](https://github.com/Lylih-Azlom) | [이보현](https://github.com/Bohyeon35) | [이승창](https://github.com/jjekrrq) |
 
-| <img src="https://github.com/Bohyeon35.png" width="150px" /> | <img src="https://github.com/jjekrrq.png" width="150px" /> | <img src="https://github.com/0xwb7.png" width="150px" /> | <img src="https://github.com/leehyorin8.png" width="150px" /> |
+| <img src="https://github.com/0xwb7.png" width="150px" /> | <img src="https://github.com/leehyorin8.png" width="150px" /> | <img src="https://github.com/H-WooChan.png" width="150px" /> | <img src="https://github.com/JeongHyck06.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [이보현](https://github.com/Bohyeon35) | [이승창](https://github.com/jjekrrq) | [이우빈](https://github.com/0xwb7) | [이효린](https://github.com/leehyorin8) |
+| [이우빈](https://github.com/0xwb7) | [이효린](https://github.com/leehyorin8) | [허우찬](https://github.com/H-WooChan) | [임정혁](https://github.com/JeongHyck06) |
 
-| <img src="https://github.com/H-WooChan.png" width="150px" /> | <img src="https://github.com/JeongHyck06.png" width="150px" /> | <img src="https://github.com/knm07071-eng.png" width="150px" /> | <img src="https://github.com/sbin0509-blip.png" width="150px" /> |
+| <img src="https://github.com/knm07071-eng.png" width="150px" /> | <img src="https://github.com/sbin0509-blip.png" width="150px" /> | <img src="https://github.com/TERAN44.png" width="150px" /> | <img src="https://github.com/yerim125.png" width="150px" /> |
 | :--: | :--: | :--: | :--: |
-| [허우찬](https://github.com/H-WooChan) | [임정혁](https://github.com/JeongHyck06) | [정유빈](https://github.com/knm07071-eng) | [최석빈](https://github.com/sbin0509-blip) |
+| [정유빈](https://github.com/knm07071-eng) | [최석빈](https://github.com/sbin0509-blip) | [최시우](https://github.com/TERAN44) | [최예림](https://github.com/yerim125) |
 
-| <img src="https://github.com/TERAN44.png" width="150px" /> | <img src="https://github.com/yerim125.png" width="150px" /> | <img src="https://github.com/totostudent.png" width="150px" /> | <img src="https://github.com/nmmn1004.png" width="150px" /> |
-| :--: | :--: | :--: | :--: |
-| [최시우](https://github.com/TERAN44) | [최예림](https://github.com/yerim125) | [최유라](https://github.com/totostudent) | [최준혁](https://github.com/nmmn1004) |
+| <img src="https://github.com/totostudent.png" width="150px" /> | <img src="https://github.com/nmmn1004.png" width="150px" /> |
+| :--: | :--: |
+| [최유라](https://github.com/totostudent) | [최준혁](https://github.com/nmmn1004) |
 
 </details>
