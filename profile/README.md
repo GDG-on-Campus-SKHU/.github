@@ -164,7 +164,7 @@
 
 <details>
 
-<summary><b>24-25 4기 멤버 🌟</b></summary>
+<summary><b>25-26 4기 멤버 🌟</b></summary>
 
 ### Lead (A.K.A Organizer) 2
 
