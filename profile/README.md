@@ -1,24 +1,27 @@
-
-<h1>
-<a href="https://www.gdgoc-skhu.com/">
-  
-<!--![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/assets/14046092/1839fc55-f7ec-482d-ac76-e728d2692360) -->
-<!--![GDSC SKHU Cover](https://github.com/GDSC-SKHU/.github/blob/main/assets/GDG%20On%20Campus%20-%20Centered.jpg?raw=true)  -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5e4173e9-16d0-4e64-b516-a9f98ed92c7a" alt="GDSC SKHU Cover" width="500"/>
-</p>
-
-</a>
-<a href="https://www.gdgoc-skhu.com/">
-
-![homepage](https://img.shields.io/badge/homepage-gdgoc--skhu.com-red?style=flat-square)
-
-</a>
-</h1>
+<div align="center">
+  <a href="https://www.gdgoc-skhu.com/">
+    <img 
+      src="https://github.com/user-attachments/assets/5e4173e9-16d0-4e64-b516-a9f98ed92c7a" 
+      alt="GDGoC SKHU Cover" 
+      width="500"
+    />
+  </a>
 </div>
 
-<details>
+<br/>
 
+<div align="center">
+  <a href="https://www.gdgoc-skhu.com/">
+    <img 
+      src="https://img.shields.io/badge/homepage-gdgoc--skhu.com-red?style=flat-square" 
+      alt="homepage"
+    />
+  </a>
+</div>
+
+<br/><br/>
+
+<details>
 <summary><b>22-23 1기 멤버 🛫</b></summary>
 
 ### Lead
