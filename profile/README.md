@@ -167,7 +167,7 @@
 
 <details>
 
-<summary><b>25-26 4기 멤버 🌟</b></summary>
+<summary><b>25-26 4기 멤버 🛫</b></summary>
 
 ### Lead (A.K.A Organizer) 2
 
@@ -218,5 +218,31 @@
 | <img src="https://github.com/totostudent.png" width="150px" /> | <img src="https://github.com/nmmn1004.png" width="150px" /> |
 | :--: | :--: |
 | [최유라](https://github.com/totostudent) | [최준혁](https://github.com/nmmn1004) |
+
+</details>
+</details>
+
+###
+
+
+<!-- 기수 구분, 여기서 부터 5th GDGoC -->
+
+<details>
+
+<summary><b>26-27 5기 멤버 🌟</b></summary>
+
+### Organizer
+
+| <img src="https://avatars.githubusercontent.com/u/79650116?v=4" width="150px" /> |
+| :------------------------------------------------------------------------------: |
+|                  [박대경](https://github.com/ggok0265)                   |
+
+### Core (A.K.A Team Member) 8
+
+| <img src="https://github.com/rlaekdms13.png" width="150px" /> | <img src="https://github.com/seokhawn01.png" width="150px" /> | <img src="https://github.com/yeonja23.png" width="150px" /> | <img src="https://github.com/0xwb7.png" width="150px" /> | <img src="https://github.com/banji0502.png" width="150px" /> | <img src="https://github.com/tto-oy.png" width="150px" /> | <img src="https://github.com/hsolmoon.png" width="150px" /> | <img src="https://github.com/knm07071-eng.png" width="150px" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: |
+|           [김다은](https://github.com/rlaekdms13)            |           [김석환](https://github.com/seokhawn01)            |           [박연지](https://github.com/yeonja23)            |           [이우빈](https://github.com/0xwb7)            |            [반지민](https://github.com/banji0502)            |              [이솔](https://github.com/tto-oy)              |            [문해솔](https://github.com/hsolmoon)            |           [정유빈](https://github.com/knm07071-eng)           |
+
+### Member (TBD)
 
 </details>
