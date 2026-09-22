@@ -243,6 +243,34 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: |
 |           [김다은](https://github.com/rlaekdms13)            |           [김석환](https://github.com/seokhawn01)            |           [박연지](https://github.com/yeonja23)            |           [이우빈](https://github.com/0xwb7)            |            [반지민](https://github.com/banji0502)            |              [이솔](https://github.com/tto-oy)              |            [문해솔](https://github.com/hsolmoon)            |           [정유빈](https://github.com/knm07071-eng)           |
 
-### Member (TBD)
+<details>
+<summary><b>Member 23</b></summary>
+
+| <img src="https://github.com/kny4355.png" width="150px" /> | <img src="https://github.com/dongju1231.png" width="150px" /> | <img src="https://github.com/Bomin1201.png" width="150px" /> | <img src="https://github.com/seoryeong9.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [김나연](https://github.com/kny4355) | [김동주](https://github.com/dongju1231) | [김보민](https://github.com/Bomin1201) | [김서령](https://github.com/seoryeong9) |
+
+| <img src="https://github.com/sujeong24.png" width="150px" /> | <img src="https://github.com/TwooTwoo.png" width="150px" /> | <img src="https://github.com/khw712.png" width="150px" /> | <img src="https://github.com/2rohmark.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [김수정](https://github.com/sujeong24) | [김태우](https://github.com/TwooTwoo) | [김현우](https://github.com/khw712) | [노강민](https://github.com/2rohmark) |
+
+| <img src="https://github.com/Ruhi03.png" width="150px" /> | <img src="https://github.com/ryaungseo.png" width="150px" /> | <img src="https://github.com/Akathert.png" width="150px" /> | <img src="https://github.com/dbTWLV.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [백민재](https://github.com/Ruhi03) | [안령서](https://github.com/ryaungseo) | [안정민](https://github.com/Akathert) | [여태원](https://github.com/dbTWLV) |
+
+| <img src="https://github.com/yyj0609.png" width="150px" /> | <img src="https://github.com/kons2003.png" width="150px" /> | <img src="https://github.com/isacc03.png" width="150px" /> | <img src="https://github.com/2tmdgh.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [윤유정](https://github.com/yyj0609) | [이길수](https://github.com/kons2003) | [이삭](https://github.com/isacc03) | [이승호](https://github.com/2tmdgh) |
+
+| <img src="https://github.com/mosiragoraaa.png" width="150px" /> | <img src="https://github.com/hw4n22.png" width="150px" /> | <img src="https://github.com/jjholy1024-bot.png" width="150px" /> | <img src="https://github.com/i1000u.png" width="150px" /> |
+| :--: | :--: | :--: | :--: |
+| [이유림](https://github.com/mosiragoraaa) | [이환이](https://github.com/hw4n22) | [전진혁](https://github.com/jjholy1024-bot) | [전천우](https://github.com/i1000u) |
+
+| <img src="https://github.com/juwon0066.png" width="150px" /> | <img src="https://github.com/yerim125.png" width="150px" /> | <img src="https://github.com/ten0213.png" width="150px" /> |
+| :--: | :--: | :--: |
+| [차주원](https://github.com/juwon0066) | [최예림](https://github.com/yerim125) | [황재현](https://github.com/ten0213) |
+
+</details>
+</details>
 
 </details>
